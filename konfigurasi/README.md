@@ -6,8 +6,8 @@ Folder ini berisi file konfigurasi MikroTik yang digunakan dalam penelitian.
 
 Isi Folder
 
-mikrotik-router.rsc
+MikroTik-Router.backup & Mikrotik-Router.rsc
 Konfigurasi MikroTik sebagai router utama.
 
-mikrotik-switch.rsc
+MikroTik-Switch.backup & MikroTik-Switch.rsc
 Konfigurasi MikroTik sebagai switch manageable.
